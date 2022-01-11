@@ -1,0 +1,21 @@
+.vicky{
+
+    color:green; 
+    font-style:italic;
+}
+.style{
+    font-style:italic;
+     color:green;
+}
+
+.newworld{
+    
+    background-color: rgb(56, 199, 243);
+    height: fit-content;
+    width: fit-content;
+}
+
+ #varner{
+     
+    resize: none;
+ }
